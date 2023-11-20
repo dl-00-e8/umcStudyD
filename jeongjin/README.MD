@@ -21,7 +21,7 @@ HIUMC 5기 스프링 스터디에서 진행하는 프로젝트로, 사용자가 
 - MySQL 8.0.33
 - Redis 7.0.11
 
-### ERD
+### ERD
 ![umcdb_erd](https://github.com/AlmondBreez3/umcStudyD/assets/76556999/06a3450a-9474-46f7-be2c-aa7468ac0308)
 
 ### API 명세서

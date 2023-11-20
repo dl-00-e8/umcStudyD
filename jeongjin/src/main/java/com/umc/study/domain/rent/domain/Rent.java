@@ -30,13 +30,13 @@ public class Rent extends BaseTimeEntity {
     @JoinColumn(name = "book_id", nullable = false, columnDefinition = "bigint")
     private Book book;
 
-    @Column(name = "start_date", nullable = false, columnDefinition = "timestamp")
+    @Column(name = "start_date", nullable = false)
     private LocalDateTime startDate;
 
-    @Column(name = "end_date", nullable = false, columnDefinition = "timestamp")
+    @Column(name = "end_date", nullable = false)
     private LocalDateTime endDate;
 
-    @Column(name = "return_date", columnDefinition = "timestamp")
+    @Column(name = "return_date")
     private LocalDateTime returnDate;
 
     @Column(name = "delay_count", columnDefinition = "int default 0")

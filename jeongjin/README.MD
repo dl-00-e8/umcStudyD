@@ -22,7 +22,7 @@ HIUMC 5기 스프링 스터디에서 진행하는 프로젝트로, 사용자가 
 - Redis 7.0.11
 
 ### ERD
-![umcdb_erd](https://github.com/AlmondBreez3/umcStudyD/assets/76556999/06a3450a-9474-46f7-be2c-aa7468ac0308)
+![umcdb_erd](https://github.com/AlmondBreez3/umcStudyD/assets/76556999/cec094de-9ea6-4ee0-80b4-4072d41553a3)
 
 ### API 명세서
 ![image](https://github.com/AlmondBreez3/umcStudyD/assets/76556999/b9deae1d-ad5c-43fd-847e-c3b8fb3f044c)
